@@ -100,7 +100,7 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Solve **300+ LeetCode** problems
 - [ ] Complete **1 full-stack project**
