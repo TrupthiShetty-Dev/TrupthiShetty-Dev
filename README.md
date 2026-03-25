@@ -5,7 +5,7 @@
 ║                                                           ║
 ║        T R U P T H I   S H E T T Y                        ║
 ║        ─────────────────────────────                      ║
-║        Building Strong Fundamentals,                      ║ 
+ ║        Building Strong Fundamentals,                      ║ 
 ║        One Commit at a Time                               ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
@@ -126,7 +126,7 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 <div align="center">
 
 ```
-If you're also on a MAANG journey — let's connect and grow together.
+If you're also on a same journey — let's connect and grow together.
 Every expert was once a beginner. This is Day 1 of many.
 ```
 
