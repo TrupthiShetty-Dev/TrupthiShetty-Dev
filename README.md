@@ -10,7 +10,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**Journey started:** `March 25, 2025` &nbsp;|&nbsp; **Target:** `MAANG` &nbsp;|&nbsp; **Status:** 🔥 `In Progress`
+**Journey started:** `March 25, 2026` &nbsp;|&nbsp; **Target:** `MAANG` &nbsp;|&nbsp; **Status:** 🔥 `In Progress`
 
 </div>
 
