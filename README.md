@@ -3,14 +3,15 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║        T R U P T H I   S H E T T Y                       ║
+║        T R U P T H I   S H E T T Y                        ║
 ║        ─────────────────────────────                      ║
-║        Cracking MAANG — One Commit at a Time             ║
+║        Building Strong Fundamentals,                      ║ 
+║        One Commit at a Time                               ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**Journey started:** `March 25, 2026` &nbsp;|&nbsp; **Target:** `MAANG` &nbsp;|&nbsp; **Status:** 🔥 `In Progress`
+**Journey started:** `March 25, 2026` &nbsp;|&nbsp; **Target:** `DSA · System Design · Full-Stack` &nbsp;|&nbsp; **Status:** 🔥 `In Progress`
 
 </div>
 
@@ -18,7 +19,7 @@
 
 ## 👩‍💻 Who am I?
 
-Hey! I'm **Trupthi Shetty** — a developer on a mission to crack a MAANG company from **absolute zero**.
+Hey! I'm **Trupthi Shetty** — a developer building strong fundamentals from the ground up.
 
 No shortcuts. No fluff. Just raw consistency, deep fundamentals, and building real things.
 
@@ -68,11 +69,11 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 
 <div align="center">
 
-![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiShetty-MAANG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiMShetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrupthiShetty-MAANG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrupthiMShetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TrupthiShetty-MAANG&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TrupthiMShetty&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,7 +106,7 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 - [ ] Solve **300+ LeetCode** problems
 - [ ] Complete **1 full-stack project**
 - [ ] Get **system design ready**
-- [ ] Land **1 MAANG interview call**
+- [ ] Land **great product-based company**
 - [ ] Keep **GitHub streak alive** 🔥
 
 ---
