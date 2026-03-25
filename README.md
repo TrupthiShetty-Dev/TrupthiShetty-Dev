@@ -1,6 +1,4 @@
 <div align="center">
-<!-- Animated wave banner with name -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Trupthi%20Shetty&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cracking%20MAANG%20—%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn)
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
