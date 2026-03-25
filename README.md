@@ -130,6 +130,6 @@ If you're also on a same journey — let's connect and grow together.
 Every expert was once a beginner. This is Day 1 of many.
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TrupthiShetty-MAANG&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=TrupthiMShetty&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
