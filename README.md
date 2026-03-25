@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Trupthi%20Shetty&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Building%20Strong%20Fundamentals%2C%20One%20Commit%20at%20a%20Time&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Developer+in+Progress+%F0%9F%92%9C;DSA+%7C+System+Design+%7C+Full-Stack;Learning+in+Public+%F0%9F%93%96;One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
@@ -72,11 +76,11 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 
 <div align="center">
 
-![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiMShetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiShetty-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrupthiMShetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrupthiShetty-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TrupthiMShetty&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TrupthiShetty-Dev&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -133,6 +137,6 @@ If you're also on a same journey — let's connect and grow together.
 Every expert was once a beginner. This is Day 1 of many.
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TrupthiMShetty&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=TrupthiShetty-Dev&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
