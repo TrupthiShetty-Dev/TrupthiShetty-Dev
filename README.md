@@ -21,8 +21,6 @@ No shortcuts. No fluff. Just raw consistency, deep fundamentals, and building re
 
 This GitHub is my **live logbook** — every commit, every problem solved, every project shipped is part of the story.
 
-> *"The best time to start was yesterday. The second best time is today."*
-> — And today is **Day 1.**
 
 ---
 
@@ -86,7 +84,6 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 
 </div>
 
-> *Replace `TrupthiShetty` above with your actual LeetCode username.*
 
 ---
 
