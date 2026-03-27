@@ -27,7 +27,7 @@ This GitHub is my **live logbook** — every commit, every problem solved, every
 ## 🗺️ The Roadmap
 
 ```
-Phase 1 → DSA Foundations          [ ░░░░░░░░░░ ] 0%   (Arrays, Strings, Recursion)
+Phase 1 → DSA Foundations          [ ░░░░░░░░░░ ] 1%   (Arrays, Strings, Recursion)
 Phase 2 → Core CS Subjects         [ ░░░░░░░░░░ ] 0%   (OS, DBMS, Networks, OOPs)
 Phase 3 → DSA Advanced             [ ░░░░░░░░░░ ] 0%   (Trees, Graphs, DP)
 Phase 4 → System Design            [ ░░░░░░░░░░ ] 0%   (LLD + HLD)
