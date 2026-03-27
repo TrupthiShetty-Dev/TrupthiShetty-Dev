@@ -66,7 +66,7 @@ Phase 6 → Interview Grind          [ ░░░░░░░░░░ ] 0%   (Mo
 
 <div align="center">
 
-![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiShetty-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Trupthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrupthiShetty-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrupthiShetty-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
